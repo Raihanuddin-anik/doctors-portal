@@ -1,0 +1,18 @@
+.inputs{
+    text-align: center;
+   
+}
+.email-input{
+    width: 50%;
+    height: 50px;
+}
+.subject-input{
+    width: 50%;
+    height: 45px;
+
+}
+.message-input{
+    width: 50%;
+    height: 100px;
+
+}

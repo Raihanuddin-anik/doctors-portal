@@ -10,7 +10,6 @@ const DashBoard = () => {
     const [ApData, setApData] = React.useState([]);
     console.log(ApData)
 
-    
     const handleDateChange = date => {
         setSeclectedDate(date)
       
